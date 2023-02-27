@@ -28,8 +28,6 @@ main {
     max-width: 50rem;
 }
 
-.main-title-section {
-}
 
 .main-title {
     margin-bottom: rem;
@@ -63,8 +61,14 @@ time {
     width: 50%;
 }
 
+.article {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
 ul {
     padding-left: 1rem;
+    
 }
 
 
@@ -84,4 +88,11 @@ table th {
 .cell-spacing {
     padding-right: 6rem;
 }
-    
+
+footer h3 {
+    color: grey;
+}
+.footer-photo-container {
+    display: flex;
+
+}
