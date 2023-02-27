@@ -1,7 +1,8 @@
+
 body { 
     background-color: white;
     margin: 0;
-    
+    font-family: sans-serif;
 }
 
 .header-container {
@@ -66,3 +67,21 @@ ul {
     padding-left: 1rem;
 }
 
+
+    
+.info-table {
+    border-collapse: collapse;
+}
+
+table th {
+    font-size:0.8rem;
+    background-color: rgb(50, 146, 255);
+    text-align: left;
+}
+.line-blue { background-color: rgb(117, 230, 253);}
+.line-white { background-color: white;}
+
+.cell-spacing {
+    padding-right: 6rem;
+}
+    
