@@ -1,0 +1,22 @@
+body { 
+    background-color: white;
+    margin: 0;
+    
+}
+
+.header-container {
+    display: flex;
+    flex-direction: column-reverse;
+    padding-bottom: 0.5rem;
+    height: 4.3rem;
+    background-image: url('../img/pattern.png');
+    background-size:contain;
+    background-repeat: repeat;
+    background-color: rgb(90, 181, 255); 
+
+}
+
+#header-logo {
+    margin-left: 5rem;
+    width: 9rem;
+}
